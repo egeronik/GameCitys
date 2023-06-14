@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490894774392",
+    "project_id": "citysgame-88ccf",
+    "storage_bucket": "citysgame-88ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490894774392:android:014f066b751c8776b09d8d",
+        "android_client_info": {
+          "package_name": "com.example.gamecitys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490894774392-djdlvu4vhakdfi035tl5gcjhjbi76kr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzNLxKAhHK2xLMCuSTGLU4BIpJBG4Sz2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490894774392-djdlvu4vhakdfi035tl5gcjhjbi76kr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
